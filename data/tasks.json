@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ee15f8e5-d68b-4305-b301-5d052a8b4f76",
+    "title": "Software Engineering quiz",
+    "subject": "SE",
+    "deadline": "2025-12-18T01:17:01.670185271",
+    "priority": "HIGH",
+    "estimatedMinutes": 60,
+    "studyTask": true
+  },
+  {
+    "id": "665b5a8d-e390-4c8d-bf55-e56457dc6343",
+    "title": "SE assignment",
+    "subject": "SE",
+    "deadline": "2025-12-18T01:17:23.056386256",
+    "priority": "MEDIUM",
+    "estimatedMinutes": 60,
+    "studyTask": true
+  }
+]

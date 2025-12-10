@@ -1,0 +1,9 @@
+{
+  "name": "Usman",
+  "semester": "3",
+  "preferredStudyHoursPerDay": 2,
+  "pomodoroMinutes": 25,
+  "shortBreak": 5,
+  "longBreak": 15,
+  "longBreakAfter": 4
+}

@@ -1,0 +1,14 @@
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/Main.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/logic/TaskScheduler.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/models/StudySession.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/models/Task.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/models/UserProfile.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/storage/FilePaths.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/storage/JsonStorage.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/storage/LocalDateTimeAdapter.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/ui/DashboardScreen.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/ui/LoginScreen.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/ui/ProfileScreen.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/ui/ScheduleScreen.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/ui/TaskFormScreen.java
+/home/paracetamol/Downloads/StudyPlanner/src/main/java/utils/Validator.java
